@@ -1,0 +1,14 @@
+# base.txt is a pip requirements file which describes the necessary
+# distributions required to run this project. If you need something that is
+# project specific not listed here use project.txt. You can, of course, update
+# versions of distributions here if needed.
+
+--find-links http://hen.droidware.it/packages/
+
+Django>=1.5
+South
+eco
+django-pipeline
+django-pipeline-eco
+gunicorn
+MySQL-python

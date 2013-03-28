@@ -1,0 +1,7 @@
+--requirement=base.txt
+
+droid-django-dajaxice
+droid-common-js
+
+# Put project-specific requirements here.
+# See http://pip-installer.org/requirement-format.html for more information.
